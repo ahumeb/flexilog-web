@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Vanitas';
+    src: url('Vanitas-Bold.woff2') format('woff2'),
+        url('Vanitas-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vanitas';
+    src: url('Vanitas-Black.woff2') format('woff2'),
+        url('Vanitas-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vanitas';
+    src: url('Vanitas-BlackItalic.woff2') format('woff2'),
+        url('Vanitas-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
